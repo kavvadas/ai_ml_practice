@@ -1,4 +1,4 @@
-# Exercises for Mathematics on Machine Learning (AI Models included)
+## Exercises for Mathematics on Machine Learning (AI Models included)
 
 > 1. Plotting mathematical formula y = np.sin(b) + b * 1/10, explaining how to find local minimum on formula.
 > 2. Training model on student's income and testing the accuracy of Neural Network and Linear Regression algorithms.
